@@ -1,4 +1,5 @@
-int BuzzerPin = D4;     // Connect Buzzer to Arduino pin 11
+int BuzzerPin = 11;     // Connect Buzzer to Arduino pin 11
+// int BuzzerPin = D4;   // Connect Buzzer to nodemcu pin D4
 
 int Si2 =1975;
 int LaS2=1864;
